@@ -1,6 +1,8 @@
 c2048
 =====
 
+[![Join the chat at https://gitter.im/hyiltiz/2048_game](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hyiltiz/2048_game?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Sliding tile puzzle game in the terminal. The goal is to build the elusive
 `2048` tile by combining two `1024` tiles, which is in turn produced by
 combining two `512` tiles, which are built up from randomly dropped `2` and
